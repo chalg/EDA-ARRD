@@ -903,6 +903,7 @@ little value in trying to predict fatality rates into the future.
 #### Talk about some of the relationships you observed in this part of the \
 investigation. Were there features that strengthened each other in terms of \
 looking at your feature(s) of interest?
+
 The downward trend in fatalities was highlighted in the fatalities involving 
 heavy vehicles and crash types. These plots also confirm a flattening out or 
 uptick in fatality trend in 2015 and 2016. This highlights that road users 
