@@ -536,9 +536,7 @@ The multivariate section we will look at all three categories together.
 # Bivariate Analysis
 
 
-#### Talk about some of the relationships you observed in this part of the \
-investigation. How did the feature(s) of interest vary with other features in \
-the data set?
+#### Talk about some of the relationships you observed in this part of the investigation. How did the feature(s) of interest vary with other features in the data set?
 
 Fatalities correlate with many variables the significant ones include gender,
 age, time and state. Fatalities by gender are skewed heavily towards males.
