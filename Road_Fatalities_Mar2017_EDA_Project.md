@@ -231,8 +231,7 @@ The main features of the data set are the number of fatalities along with
 variables such as age, gender and state. All variables are useful except perhaps
 minute.
 
-#### What other features in the dataset do you think will help support your \
-investigation into your feature(s) of interest?
+#### What other features in the dataset do you think will help support your investigation into your feature(s) of interest?
 Variables like hour, year, speed limit and road user provide good insights into
 factors contributing to road fatalities.
 
@@ -241,9 +240,7 @@ fatal_unique is a subset of fatal, which removes duplicated CrashID records as
 mentioned earlier. The fatal_unique data frame contains 42,765 observations and
 16 variables. 
 
-#### Of the features you investigated, were there any unusual distributions? \
-Did you perform any operations on the data to tidy, adjust, or change the form \
-of the data? If so, why did you do this?
+#### Of the features you investigated, were there any unusual distributions? Did you perform any operations on the data to tidy, adjust, or change the form of the data? If so, why did you do this?
 For the univariate plots the overall improvement in the number of fatalities
 from 1989-2016 was much better than I anticipated. The extreme spike in 
 fatalities in the late teens and early twenties was also more pronounced than I
@@ -554,8 +551,7 @@ The NT stands out among the states as having by far the highest fatality rate.
 The NT also has the lowest median and mean age when it comes to fatalities as 
 depicted in the Age vs State box plot and these are most likely related.
 
-#### Did you observe any interesting relationships between the other features \
-(not the main feature(s) of interest)?
+#### Did you observe any interesting relationships between the other features (not the main feature(s) of interest)?
 
 I created a supporting data frame from Australian Bureau of Statistics (ABS) data
 for estimated resident population in order to look at the fatality rate per
@@ -900,9 +896,7 @@ little value in trying to predict fatality rates into the future.
 
 # Multivariate Analysis
 
-#### Talk about some of the relationships you observed in this part of the \
-investigation. Were there features that strengthened each other in terms of \
-looking at your feature(s) of interest?
+#### Talk about some of the relationships you observed in this part of the investigation. Were there features that strengthened each other in terms of looking at your feature(s) of interest?
 
 The downward trend in fatalities was highlighted in the fatalities involving 
 heavy vehicles and crash types. These plots also confirm a flattening out or 
